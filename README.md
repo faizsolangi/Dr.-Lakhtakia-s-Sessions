@@ -57,8 +57,10 @@ Participants learn how to manage research code, build structured prompts, develo
 - Ethics, reliability, and academic integrity  
 
 ### Hands-On Activities
-- Build a basic agent using OpenAI Assistants or LangChain  
-- Implement tool use (search, Python, file analysis)  
+- Build a Meeting Scheduler Bot 
+- A RAG Agent
+- Multiagent Content Creation Crew
+
 
 ### Key Outcomes
 Participants understand the architecture of LLMs and build their first agent capable of executing multi-step tasks.
