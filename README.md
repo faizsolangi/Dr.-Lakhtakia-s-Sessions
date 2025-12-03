@@ -57,8 +57,7 @@ Participants learn how to manage research code, build structured prompts, develo
 - Ethics, reliability, and academic integrity  
 
 ### Hands-On Activities
-- Build a Meeting Scheduler Bot  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pyVOMYMU_6IS7ahVAxKH3gXY6cvtLrvn#scrollTo=9u17WNGylpEL)
-- A RAG Agent
+- Build a Meeting Scheduler Bot & A RAG Agent  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pyVOMYMU_6IS7ahVAxKH3gXY6cvtLrvn#scrollTo=9u17WNGylpEL)
 - Multiagent Content Creation Crew
 
 
