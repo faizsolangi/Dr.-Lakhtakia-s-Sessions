@@ -78,6 +78,7 @@ Participants understand the architecture of LLMs and build their first agent cap
 ### Hands-On Project  
 
 **Build & deploy a “Multi-agent systems”:**
+- Multi-agent systems using colab  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13nnMpFJDp91sJzLoThIkpoatVmdDSL89#scrollTo=6Cprn1wYYfzM)
 - Deploy to Render (public URL)
 
 ### Key Outcomes
