@@ -58,7 +58,7 @@ Participants learn how to manage research code, build structured prompts, develo
 
 ### Hands-On Activities
 - Build a Meeting Scheduler Bot & A RAG Agent  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pyVOMYMU_6IS7ahVAxKH3gXY6cvtLrvn#scrollTo=9u17WNGylpEL)
-- Multiagent Content Creation Crew
+
 
 
 ### Key Outcomes
@@ -76,11 +76,8 @@ Participants understand the architecture of LLMs and build their first agent cap
 - Deploying on Render  
 
 ### Hands-On Project  
-**Build & deploy a “Research Paper Summarizer App”:**
-- Upload PDF  
-- Extract text  
-- Summarize + generate insights  
-- Export output  
+
+**Build & deploy a “Multi-agent systems”:**
 - Deploy to Render (public URL)
 
 ### Key Outcomes
