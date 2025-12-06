@@ -88,7 +88,7 @@ Participants build and deploy a working AI research app in under an hour.
 
 # 📈 Session 4 — Applications: Academic AI Tools (1.5 hrs)
 
-This session delivers **three fully functional academic tools** you can reuse and extend.
+This session delivers **two fully functional academic tools** you can reuse and extend.
 
 ---
 
@@ -118,22 +118,6 @@ Features:
 - Export to LaTeX  
 
 Ideal for research groups, PhD students, and grant proposals.
-
----
-
-## 🎓 Application 3 — AI Teaching Assistant
-Capabilities:
-
-- Lecture generation  
-- Quiz + solution generator  
-- Homework creation  
-- Auto-grading short answers  
-- Personalized study plans  
-- Q&A support for students  
-
-Immediate application for course delivery.
-
----
 
 # 🗂️ Repository Structure
 
