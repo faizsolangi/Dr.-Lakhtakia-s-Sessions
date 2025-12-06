@@ -1,0 +1,54 @@
+                  ┌──────────────────────┐
+                  │   1. Upload Dataset   │
+                  │     (CSV File)        │
+                  └───────────┬──────────┘
+                              │
+                              ▼
+   ┌────────────────────────────────────────────────┐
+   │ 2. Bot Reads Dataset                           │
+   │   - Column names                                │
+   │   - Data types                                  │
+   │   - Missing values                              │
+   │   - Descriptive statistics                      │
+   └──────────────────────────┬─────────────────────┘
+                              │
+                              ▼
+        ┌────────────────────────────────────────┐
+        │ 3. Bot Designs Data Cleaning Steps      │
+        │   - Handle missing values               │
+        │   - Remove/handle outliers              │
+        │   - Normalize/scale data                │
+        └────────────────────────┬────────────────┘
+                                 │
+                                 ▼
+     ┌───────────────────────────────────────────┐
+     │ 4. Bot Suggests Feature Engineering        │
+     │   - Create new variables                   │
+     │   - Encode categories                      │
+     │   - Select important features              │
+     └──────────────────────────┬─────────────────┘
+                                │
+                                ▼
+             ┌────────────────────────────────────────┐
+             │ 5. Bot Selects Machine Learning Model   │
+             │   - Classification OR regression?       │
+             │   - Chooses algorithm + justification   │
+             └────────────────────────┬───────────────┘
+                                      │
+                                      ▼
+           ┌──────────────────────────────────────────────┐
+           │ 6. Bot Generates Python Code (Full Pipeline)  │
+           │   - Cleaning                                  │
+           │   - Feature engineering                       │
+           │   - Model training                            │
+           │   - Model evaluation                          │
+           └──────────────────────────┬────────────────────┘
+                                      │
+                                      ▼
+               ┌────────────────────────────────────────┐
+               │ 7. Results + Explanation Report        │
+               │   - Summary of data                    │
+               │   - Why these models?                  │
+               │   - How to run the code                │
+               │   - How to interpret results           │
+               └────────────────────────────────────────┘
